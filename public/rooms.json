@@ -1,0 +1,170 @@
+[
+    {
+        "id": "1",
+        "img": "https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room1_portrait.jpg",
+        "name": "Superior Room - 2 people / 30m²",
+        "description": "The generous living room area with couch can accommodate one extra bed. While sitting on lounge chairs of the south-facing balcony, you can enjoy the stunning views of the Matterhorn, some fresh mountain air and the mild afternoon sun. ",
+        "price": "199",
+        "bgImg": "https://hotellerv5.themegoods.com/boutique/wp-content/uploads/sites/2/2019/06/One-Bedroom-Alpine-Suite-Lake-View.jpg",
+        "title": "Superior Room ",
+        "subTitle": "More than meets the eye",
+        "facilities": [
+          "Twins Bed",
+          "30m²",
+          "Free Wifi",
+          "2 People",
+          "From $199"
+        ],
+        "subImg":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room1_portrait.jpg",
+        "subTitle2":"Luxury & Comfort",
+        "subTitle3":"Our Services and wonders of Prague",
+        "description2":"See-through delicate embroidered organza blue lining luxury acetate-mix stretch pleat detailing. Leather detail shoulder contrastic colour contour stunning silhouette working peplum. Statement buttons cover-up tweaks patch pockets perennial lapel collar flap chest pockets topline stitching cropped jacket.",
+        "roomFeatures":[
+          "40-inch Samsung® LED TV",
+          "Electronic safe with charging facility",
+          "iHome™ Bluetooth MP3 Player",
+          "Iron and ironing board",
+          "Mini bar",
+          "Non-smoking",
+          "USB charging station",
+          "Wired and wireless broadband Internet access"
+        ],
+        "subImg2":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room-standard-01.jpg",
+        "subImg3":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/food-on-a-table-in-a-hotel-room-PU969F8.jpg",
+       
+          "accommodations": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+        "id": "2",
+        "img": "https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room2_portrait.jpg",
+        "name": "Deluxe Room - 2 people / 55m",
+        "description": "The generous living room area with couch can accommodate one extra bed. While sitting on lounge chairs of the south-facing balcony, you can enjoy the stunning views of the Matterhorn, some fresh mountain air and the mild afternoon sun. ",
+        "price": "249",
+        "bgImg": "https://hotellerv5.themegoods.com/boutique/wp-content/uploads/sites/2/2019/06/One-Bedroom-Alpine-Suite-Lake-View.jpg",
+        "title": "Superior Room ",
+        "subTitle": "More than meets the eye",
+        "facilities": [
+          "Twins Bed",
+          "30m²",
+          "Free Wifi",
+          "2 People",
+          "From $249"
+        ],
+        "subImg":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room1_portrait.jpg",
+        "subTitle2":"Luxury & Comfort",
+        "subTitle3":"Our Services and wonders of Prague",
+        "description2":"See-through delicate embroidered organza blue lining luxury acetate-mix stretch pleat detailing. Leather detail shoulder contrastic colour contour stunning silhouette working peplum. Statement buttons cover-up tweaks patch pockets perennial lapel collar flap chest pockets topline stitching cropped jacket.",
+        "roomFeatures":[
+          "40-inch Samsung® LED TV",
+          "Electronic safe with charging facility",
+          "iHome™ Bluetooth MP3 Player",
+          "Iron and ironing board",
+          "Mini bar",
+          "Non-smoking",
+          "USB charging station",
+          "Wired and wireless broadband Internet access"
+        ],
+        "subImg2":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room-standard-01.jpg",
+        "subImg3":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/food-on-a-table-in-a-hotel-room-PU969F8.jpg",
+       
+          "accommodations": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+        "id": "3",
+        "img": "https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room3_portrait.jpg",
+        "name": "Signature Room - 3 people / 70m²",
+        "description": "Breakfast is served daily and the hotel’s restaurant offers a varied, modern menu from Monday to Saturday. Several bars, restaurants and shops are within 5 minutes.",
+        "price": "299",
+        "bgImg": "https://hotellerv5.themegoods.com/boutique/wp-content/uploads/sites/2/2019/06/room-standard-01.jpg",
+        "title": "Superior Room ",
+        "subTitle": "The luxury of being yourself",
+        "facilities": [
+          "Twins Bed",
+          "70m²",
+          "Free Wifi",
+          "3 People",
+          "From $299"
+        ],
+        "subImg":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/food-on-a-table-in-a-hotel-room-PU969F8.jpg",
+        "subTitle2":"Luxury & Comfort",
+        "subTitle3":"Our Services and wonders of Prague",
+        "description2":"See-through delicate embroidered organza blue lining luxury acetate-mix stretch pleat detailing. Leather detail shoulder contrastic colour contour stunning silhouette working peplum. Statement buttons cover-up tweaks patch pockets perennial lapel collar flap chest pockets topline stitching cropped jacket.",
+        "roomFeatures":[
+          "40-inch Samsung® LED TV",
+          "Electronic safe with charging facility",
+          "iHome™ Bluetooth MP3 Player",
+          "Iron and ironing board",
+          "Mini bar",
+          "Non-smoking",
+          "USB charging station",
+          "Wired and wireless broadband Internet access"
+        ],
+        "subImg2":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2018/09/ct-trav-hotel-zachary-open-date-0220.jpg",
+        "subImg3":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room4_portrait.jpg",
+       
+          "accommodations": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+        "id": "4",
+        "img": "https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room4_portrait.jpg",
+        "name":"Luxury Suite Room - 4 people / 120m²",
+        "description": "The generous living room area with couch can accommodate one extra bed. While sitting on lounge chairs of the south-facing balcony, you can enjoy the stunning views of the Matterhorn, some fresh mountain air and the mild afternoon sun. ",
+        "price": "399",
+        "bgImg": "https://hotellerv5.themegoods.com/boutique/wp-content/uploads/sites/2/2019/06/St-Moritz-Guest-Room.jpg",
+        "title": "Luxury Suite Room",
+        "subTitle": "Feel the class",
+        "facilities": [
+          "Twins Bed",
+          "30m²",
+          "Free Wifi",
+          "2 People",
+          "From $399"
+        ],
+        "subImg":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/food-on-a-table-in-a-hotel-room-PU969F8.jpg",
+        "subTitle2":"Luxury & Comfort",
+        "subTitle3":"Our Services and wonders of Prague",
+        "description2":"See-through delicate embroidered organza blue lining luxury acetate-mix stretch pleat detailing. Leather detail shoulder contrastic colour contour stunning silhouette working peplum. Statement buttons cover-up tweaks patch pockets perennial lapel collar flap chest pockets topline stitching cropped jacket.",
+        "roomFeatures":[
+          "40-inch Samsung® LED TV",
+          "Electronic safe with charging facility",
+          "iHome™ Bluetooth MP3 Player",
+          "Iron and ironing board",
+          "Mini bar",
+          "Non-smoking",
+          "USB charging station",
+          "Wired and wireless broadband Internet access"
+        ],
+        "subImg2":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/beautiful-luxury-comfortable-white-pillow-and-ZHKJ6WT.jpg",
+        "subImg3":"https://hotellerv5.b-cdn.net/boutique/wp-content/uploads/sites/2/2019/06/room4_portrait.jpg",
+       
+          "accommodations": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    }
+]
